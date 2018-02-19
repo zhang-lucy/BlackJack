@@ -55,6 +55,7 @@ print("reset")
 myD.reset()
 myD.print()
 print(myD.is_empty())"""
+#########TESTS############
 
 
 class blj:
